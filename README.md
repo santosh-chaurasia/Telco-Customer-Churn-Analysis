@@ -2,6 +2,10 @@
 
 A beginner-level data analytics project made as practice. It uses **Python, SQL Server, Excel and Power BI** to find out why telecom customers leave (churn) and which customers are most at risk.
 
+**Project date:** March 2026
+
+I made this project while learning the Data Analyst course at QSpiders. I had finished my BSc IT and this was one of my practice projects.
+
 > This is a learning project. I built it while following a YouTube tutorial and used the same dataset, then did the cleaning, analysis and dashboards myself in each tool.
 
 ---
@@ -122,5 +126,5 @@ The Power BI dashboard uses 3 tenure bands (0-6, 6-12 and 12+ months), while Pyt
 ## Author
 
 **Santosh Chaurasia**
-M.Sc. Data Science student, University of Mumbai
+BSc IT graduate | Data Analyst course student at QSpiders
 Email: amsantoshchaurasia@gmail.com
